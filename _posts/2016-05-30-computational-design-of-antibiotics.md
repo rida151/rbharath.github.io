@@ -7,7 +7,7 @@ There's been a lot of attention focused recently to the the threat of antiobioti
 
 The fact is that antibiotic-resistance is a very serious matter that requires significantly more attention from the scientific community. At the same time, the development of antibiotics raises many serious challenges that aren't present in other types of drug discovery (as with cancer for example). Historically, from penicillin onwards, most antibiotics have been discovered from natural sources (see [here](http://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html) for an overview of penicillin's discovery).
 
-One unfortunate fact about naturally discovered compounds tend to be quite complicated. For example, compare the structures of the antibiotic [azithromycin](https://en.wikipedia.org/wiki/Azithromycin#History) to that of [acetaminophen](https://en.wikipedia.org/wiki/Paracetamol) (Tylenol). The molecular structure of azithromycin
+One unfortunate fact about naturally discovered compounds tend to be quite complicated. For example, compare the structures of the antibiotic [azithromycin](https://en.wikipedia.org/wiki/Azithromycin#History) to that of [acetaminophen](https://en.wikipedia.org/wiki/Paracetamol) (Tylenol). The molecular structure of azithromycin 
 
 As academics, we need to start paying as much attention to antibiotics as we do to anti-cancer drugs.
 
