@@ -4,9 +4,7 @@ title: Machine Learning for Scientific Datasets
 published: true
 ---
 
-Just read the beautiful paper "Could a neuroscientist understand a microprocessor?" http://biorxiv.org/content/early/2016/05/26/055624 …
-
-The paper simulates simple microprocessor (for arcade games) and uses techniques of neuroinformatics (read: Machine learning) to analyze
+I just read the fascinating paper [Could a neuroscientist understand a microprocessor?](http://biorxiv.org/content/early/2016/05/26/055624). The paper simulates simple microprocessor (for arcade games) and uses techniques of neuroinformatics (read: Machine learning) to analyze
 
 Some techniques yield interesting insight. PCA reveals clock-ticks for example, but constructed insight very incomplete.
 
