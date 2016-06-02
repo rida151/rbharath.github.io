@@ -20,22 +20,20 @@ Not enough understanding outside chemistry of just how challenging the problem o
 
 The heart of modern drug discovery is medicinal chemistry, and the most potent tool in the medicinal chemist's toolkit is her ability to iteratively alter the structure of a proposed drug to "optimize" its efficacy, metabolic properties, and toxicity profile. For antibiotics, the extreme difficulty of performing synthetic modifications means that chemists are effectively crippled when working with these compounds (This description is partially exaggerated. See [here](http://blogs.sciencemag.org/pipeline/archives/2016/05/19/antibiotics-from-scratch) and [here](http://blogs.sciencemag.org/pipeline/archives/2015/03/12/the_end_of_synthesis) for descriptions of new synthetic chemistry techniques that have the potential to allow for easier modifications of complex antiobiotic-like molecules. However, the fact that cutting-edge research potentially solves the problem just highlights the depth of the challenges here).
 
-Another serious challenge is the fact that there are few public repositories of known antibiotics. Pubchem and Chembl (CITE) are great sources of experimental data for other types of drug-discovery. No similar database yet exists for the antibiotic space. CO-ADD (link) is offering a service where compounds are tested against a battery of assays (experiments that cultivate bacteria and report the response to an introduced compound). Should be a strong resource for future work, especially once dataset is released to the public in 2017.
+Another serious challenge is the fact that there are few public repositories of known antibiotics. Pubchem and Chembl (CITE) are great sources of experimental data for other types of drug-discovery. No similar database yet exists for the antibiotic space. CO-ADD (link) is offering a service where compounds are tested against a battery of assays (experiments that cultivate bacteria and report the response to an introduced compound). Should be a strong resource for future work, especially once dataset is released to the public in 2017. ([LINK](http://blogs.sciencemag.org/pipeline/archives/2016/05/20/want-your-compounds-tested-against-pathogens-for-free))
 
+As academics, we need to start paying as much attention to antibiotics as we do to anti-cancer drugs.
+
+We should also do more long MD simulations of antibiotic binding as well (like for kinases). Long molecular dynamics simulations yield physical understanding of the methods of binding for antiobiotics. There should be a scientific question in mind, with experiments designed to address it, rather than "We ran MD and it wiggled". @rbhar90 Greg Bowman at WashU is doing some great [work](http://pubs.rsc.org/en/content/articlepdf/2016/md/c5md00325c) with identifying targetable allosteric binding sites for antibiotic targets.
 
 http://www.sciencemag.org/news/2015/01/microbe-found-grassy-field-contains-powerful-antibiotic
 
-As academics, we need to start paying as much attention to antibiotics as we do to anti-cancer drugs.
+
 
 Not to mention that many dangerous bacteria are quite challenging to cultivate, so it's harder to do assays in-house
 
 http://www.nature.com/nature/journal/v533/n7602_supp/full/533S65a.html
 
-We should also do more long MD simulations of antibiotic binding as well (like for kinases). Long molecular dynamics simulations yield physical understanding of the methods of binding for antiobiotics. There should be a scientific question in mind, with experiments designed to address it, rather than "We ran MD and it wiggled".
-
-@jchodera Good point. Needs some thought here
-
-@rbhar90 Greg Bowman at WashU is doing some great work with identifying targetable allosteric binding sites for antibiotic targets.
 
 http://blogs.sciencemag.org/pipeline/archives/2015/11/18/antibiotics-not-as-easy-as-they-say
 
@@ -43,6 +41,5 @@ http://blogs.sciencemag.org/pipeline/archives/2016/05/13/a-plan-for-new-antibiot
 
 
 
-http://blogs.sciencemag.org/pipeline/archives/2016/05/20/want-your-compounds-tested-against-pathogens-for-free
 
 
