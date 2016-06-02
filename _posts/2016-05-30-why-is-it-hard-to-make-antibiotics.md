@@ -1,13 +1,6 @@
 ---
 published: false
 ---
----
-layout: post
-title: Why is it hard to make antibiotics?
----
-
-[DRAFT]
-
 There's been a lot of attention focused recently to the the threat of antiobiotic resistence (see this recent NYTimes [piece](http://www.nytimes.com/2016/05/27/health/infection-raises-specter-of-superbugs-resistant-to-all-antibiotics.html?_r=0) for example). The usual explanation provided is that overuse of antiobiotics by doctors and by the agricultural industry has triggered the evolution of bacteria that are resistant to all available antibiotics. The conclusion is that more needs to be done to develop novel antibiotics that can cope with the coming onslaught of resistent bacteria.
 
 Many proposed solutions are based in policy. Incentive strategies could help spur the discovery and development of new antibiotics. http://www.nature.com/ja/journal/v69/n2/full/ja201598a.html. For example, some have proposed the establishment of prize grants (CITE) for antibiotic development, or the establishment of new research centers focused on the problem. Others suggest greater education of doctors and farmers to limit excessive antibiotic usage (CITE). While all of these suggestions have their place, the development of antibiotics raises serious scientific challenges that are less widely discussed.
@@ -22,15 +15,13 @@ The heart of modern drug discovery is medicinal chemistry, and the most potent t
 
 Another serious challenge is the fact that there are few public repositories of known antibiotics. Pubchem and Chembl (CITE) are great sources of experimental data for other types of drug-discovery. No similar database yet exists for the antibiotic space. CO-ADD (link) is offering a service where compounds are tested against a battery of assays (experiments that cultivate bacteria and report the response to an introduced compound). Should be a strong resource for future work, especially once dataset is released to the public in 2017. ([LINK](http://blogs.sciencemag.org/pipeline/archives/2016/05/20/want-your-compounds-tested-against-pathogens-for-free))
 
-As academics, we need to start paying as much attention to antibiotics as we do to anti-cancer drugs.
+Not to mention that many dangerous bacteria are quite challenging to cultivate, so it's harder to do assays in-house
 
 We should also do more long MD simulations of antibiotic binding as well (like for kinases). Long molecular dynamics simulations yield physical understanding of the methods of binding for antiobiotics. There should be a scientific question in mind, with experiments designed to address it, rather than "We ran MD and it wiggled". @rbhar90 Greg Bowman at WashU is doing some great [work](http://pubs.rsc.org/en/content/articlepdf/2016/md/c5md00325c) with identifying targetable allosteric binding sites for antibiotic targets.
 
 http://www.sciencemag.org/news/2015/01/microbe-found-grassy-field-contains-powerful-antibiotic
 
-
-
-Not to mention that many dangerous bacteria are quite challenging to cultivate, so it's harder to do assays in-house
+As academics, we need to start paying as much attention to antibiotics as we do to anti-cancer drugs.
 
 http://www.nature.com/nature/journal/v533/n7602_supp/full/533S65a.html
 
@@ -38,8 +29,3 @@ http://www.nature.com/nature/journal/v533/n7602_supp/full/533S65a.html
 http://blogs.sciencemag.org/pipeline/archives/2015/11/18/antibiotics-not-as-easy-as-they-say
 
 http://blogs.sciencemag.org/pipeline/archives/2016/05/13/a-plan-for-new-antibiotics
-
-
-
-
-
