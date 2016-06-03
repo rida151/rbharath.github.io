@@ -10,4 +10,3 @@ But how complex is an actual cell? Estimates vary, but perhaps one trillion (10^
 But then, what about understanding a human brain? There are 100-billion neurons in the brain, and human-learning occurs on the order of years (say 1 year). To understand the brain requires  100-billion (10^11) fold increase in spatial complexity, and 1000-fold (10^3) increase in time complexity. Another 14 orders of magnitude.
 Thus assuming Moore’s law keeps humming along at its exponential rate (by no means guaranteed!), it will take us 100 years to understand the brain…
 But wait, won’t there be a feedback effect from our deeper understanding of algorithms? Yes, but there will be a counter feedback: QM is much more intricately linked to biological function than is apparent. We can’t even model ATP in our complex simulations. Counter exponential feedback.
-
