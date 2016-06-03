@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Why Antibiotics Are Hard
 
@@ -16,4 +16,3 @@ Other parts of drug discovery hve benefited from the advent of websites like [Pu
 As another note, standard drug-discovery has started to become increasingly computerized. Techniques based on machine-learning and on physical simulations are slowly becoming standard in conventional drug-discovery. Unfortunately, these techniques haven't yet been heavily applied to antibiotic discovery. For machine-learning techniques, the lack of large databases of antibiotic experiments has meant that training data has not been available. This should change in the near future once CO-ADD data becomes available. On the side of physical simulations, the large computational requirements of these methods has meant that such techniques are just now being applied to simpler compounds (such as for kinase inhibitors by the [Chodera lab](http://www.choderalab.org/)). A few groups, such as the [Bowman lab](http://bowmanlab.biochem.wustl.edu/) have recently started applying similar computational techniques to antibiotics, but work is just beginning in this space (see this [recent paper](http://pubs.rsc.org/en/content/articlepdf/2016/md/c5md00325c) for example)
 
 To summarize, antibiotic development has struggled because of the complex molecular structure of antibiotics, the lack of public databases of antibiotic experiments, and because of the dearth of computational work. As we've seen though, there are hopeful signs of progress on each of these fronts. I'd encourage policy developrs and potential scientific donors to direct resources and money to these specific research directions in addition to pursuing the policy-driven approches that are commonly proposed.
-
