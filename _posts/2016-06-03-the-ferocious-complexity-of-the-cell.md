@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 Fifty years ago, the first molecular dynamics papers allowed scientists to exhaustively simulate systems with a few dozen atoms for picoseconds. Today, due to tremendous gains in computational capability from Moore's law, and due to significant gains in algorithmic sophisticiation from fifty years of research, modern scientists can simulate systems with hundreds of thousands of atoms for milliseconds at a time. Put another way, scientists today can study systems tens of thousands of times larger, for billion of times longer than they could fifty years go. The effective reach of physical simulation techniques has expanded handleable computational complexity ten-trillion fold. The scope of this achievement should not be underestimated; the advent of these techniques along with the maturation of deep-learning has permitted a host of start-ups ([1](http://www.atomwise.com/), [2](http://www.twoxar.com/), [3](http://www.cloudpharmaceuticals.com/), etc) to investigate diseases using tools that were hitherto unimaginable. 
 
