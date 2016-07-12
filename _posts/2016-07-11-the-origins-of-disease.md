@@ -20,3 +20,5 @@ Genetic disorders result from small mutations to critical genes. Often, single p
 METHODS OF FINDING CURES
 ------------------------
 GWAS studies sequence thousands of patients and healthy people, and use a statistical model to find genomic variants correlated with the disease outcome.
+
+Knockout studies use gene editing in mice to test whether introducing or removing a gene causes onset or cure to the disease.
