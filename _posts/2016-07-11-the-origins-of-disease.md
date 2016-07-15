@@ -3,8 +3,6 @@ published: false
 ---
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 DISEASES
 --------
 Bacterial infections are cured by flushing out all the bacteria from the body. Viral infections are also cured by flushing viruses out of the body. The problem is dealing with "viral reservoirs" that store parts of the disease even after the main viral bodies have been flushed. A big problem in finding a cure to AIDS.
