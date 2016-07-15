@@ -11,7 +11,7 @@ Cancer is "cured" by flushing all the cancer cells out (killing them). In practi
 
 Immuno disorders (allergies, rheumatoid arthritis) appear to have behavioral causes. Lack of exposure to "dirty" environments might have caused these diseases.
 
-Obesity has no real cure. Diet and exercise help, but there appears to be a high rate of recidivism.
+Obesity has no real cure. Diet and exercise help, but there appears to be a high rate of recidivism. Some rising evidence that microbiomes (the community of bacteria which naturally live in human intestines) may play critical roles in such disorders, but the links here are very tentative at best.
 
 Genetic disorders result from small mutations to critical genes. Often, single proteins cease to function properly, causing issues.
 
