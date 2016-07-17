@@ -7,6 +7,8 @@ Need better models of disease to find better drugs. CRISPR driven animal models 
 
 Will require things like building computational models of the immune system response, and should use real clinical data from electronic health care records to understand effects of drugs on human patients.
 
+In fact, models of the human body for drug discovery are needed. Currently have models of drug distribution, blood-brain barrier penetration, drug pKa, and metabolism. But, none of these models are stitched together into a model of the whole human. This limitation stands in contrast to animal models.
+
 DISEASES
 --------
 Bacterial infections are cured by flushing out all the bacteria from the body. Viral infections are also cured by flushing viruses out of the body. The problem is dealing with "viral reservoirs" that store parts of the disease even after the main viral bodies have been flushed. A big problem in finding a cure to AIDS.
