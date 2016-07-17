@@ -1,7 +1,11 @@
 ---
 published: false
 ---
-## A New Post
+## Model Driven Drug Discovery
+
+Need better models of disease to find better drugs. CRISPR driven animal models will become very important. Computational disease modeling will also become more important, especially for diseases where it is not feasible to build animal models with current technology.
+
+Will require things like building computational models of the immune system response, and should use real clinical data from electronic health care records to understand effects of drugs on human patients.
 
 DISEASES
 --------
