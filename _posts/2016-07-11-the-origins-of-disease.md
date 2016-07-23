@@ -30,6 +30,8 @@ Knockout studies use gene editing in mice to test whether introducing or removin
 
 This approach has many strengths. Since human understanding of biology is quite weak, it allows for testing biology with biology. The downside is that it's not easy to make animal models for more complex diseases, such as neurodegenerative diseases or mental disorders.
 
+I propose that the path forward is to systematically augment the use of animal models with computational disease  models. The thesis is to create models of disease using all available data from GWAS studies, animal models of the disease, and from clinical data. The computational model of the disease would then be tested with a prospective compound, and the constructed model must be capable of predicting the induced response. This induced response can be experimentally tested in one of the physical data sources, and the data obtained can be used to refine the computational disease model. This active learning loop would allow for fine tuning of the disease models.
+
 
 
 Model Organoid reference: http://www.medicalnewstoday.com/articles/311599.php
