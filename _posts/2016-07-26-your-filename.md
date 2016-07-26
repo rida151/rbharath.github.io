@@ -95,3 +95,6 @@ published: false
 
   Model Organoid reference:
   http://www.medicalnewstoday.com/articles/311599.php
+
+########Learning-centric disease modeling could equally well serve for achieving the dream of personalized medicine. President Obama's [precision medicine initiative];(https://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama-s-precision-medicine-initiative) has drawn significant attention to the challenge of tailoring treatments to individual patients. A learning-centric paradigm could make it possible to learn sophisticated models of individual patients' diseases.
+
