@@ -74,3 +74,24 @@ published: false
   quite weak, it allows for testing biology with biology. The downside is
   that it's not easy to make animal models for more complex diseases, such
   as neurodegenerative diseases or mental disorders.
+ I propose that the path forward is to systematically augment the use of
+  animal models with computational disease  models. The thesis is to create
+  models of disease using all available data from GWAS studies, animal
+  models of the disease, and from clinical data. The computational model of
+  the disease would then be tested with a prospective compound, and the
+  constructed model must be capable of predicting the induced response.
+  This induced response can be experimentally tested in one of the physical
+  data sources, and the data obtained can be used to refine the
+  computational disease model. This active learning loop would allow for
+  fine tuning of the disease models.
+
+  In this proposal, there would be a computational model of a tumor, or say
+  of a bone-breakage, or of the patient pain. Predictions of treatments
+  would proceed by testing against the model, and by filtering predicted
+  outcomes with human insight from doctors. The advantage of this approach
+  is that it provides an intellectual framework with which to approach
+  personal medicine.
+
+
+  Model Organoid reference:
+  http://www.medicalnewstoday.com/articles/311599.php
