@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Modern drug discovery remains an artisanal pursuit, driven in large part by luck and expert knowledge. While this approach has worked spectacularly in the past, the last few years have seen a systematic decrease in the number of new drugs discovered for dollar spent. [Eroom's law](http://blogs.sciencemag.org/pipeline/archives/2012/03/08/erooms_law) empirically demonstrates that the number of new drugs per dollar has been falling exponentially year over year. Eroom is of course Moore spelled backward, where [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law) observes that transistor densities on computer chips have been increasing exponentially year over year for the past fifty years. The opposite trends in increasing computational power per dollar versus decreasing number of drugs discovered serve as a reminder that naive computation is insufficient to solve hard biological problems (a topic I've [written](http://rbharath.github.io/the-ferocious-complexity-of-the-cell/) about previously). To reverse Eroom's law, scientists must combine deep biological insights with computational modeling, and I hypothesize that the best path forward is systematically learning causal models of human disease and drug actions from available experimental data. 
 
