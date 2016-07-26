@@ -22,21 +22,17 @@ A number of innovative experimental solutions have started to mature. For exampl
 While these advances will likely prove very useful, I suspect that in isolation, they won't be sufficient to regain the efficiency of systematic phenotypic screening. Any model is limited by human understanding of the biology underlying diseased systems, and our understanding remains too weak. As Donald Rumsfeld famously noted, it's hard to plan for unknown unknowns, in life and in drug discovery. What then is the path forward?
 
 I propose that we need to systematically learn algorithmic models of disease, capable of capturing sophisticated insight not obvious to human scientists, and which are capable of predicting responses to proposed drugs. Although the pharmaceutical industry already [routinely uses](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80%93activity_relationship)
-simple statistical models of molecular properties such as solubility or toxicity to guide drug discovery, pharmaceutical scientists typically stop short of computationally modeling diseases themselves. The [systems biology](https://en.wikipedia.org/wiki/Systems_biology) community has made significant progress on this front, by creating complex systems of differential or logical equations to model biological dynamics. While these models are quite useful, they can be brittle, and hard to create, requiring significant domain expertise to tune parameters to match experimental results. The alternative approach I suggest is to directly learn disease models from experimental data.
+simple statistical models of molecular properties such as solubility or toxicity to guide drug discovery, pharmaceutical scientists typically stop short of computationally modeling diseases themselves. The [systems biology](https://en.wikipedia.org/wiki/Systems_biology) community has made significant progress on this front, by creating complex systems of differential or logical equations to model biological dynamics. While these models are quite useful, they can be brittle, and hard to create, requiring significant domain expertise to tune parameters to match experimental results. The path forward requires directly learning disease models from experimental data.
 
 Machine learning has traditionally been the science of learning simple functions which explain observed correlations in datasets. There have been significant [advances](http://rbharath.github.io/machine-learning-for-scientific-datasets/) in recent years, which have allowed practitioners to learn far more sophisticated functions capable of modeling visual and auditory data, but today's techniques [still struggle](http://rbharath.github.io/machine-learning-for-scientific-datasets/) to extract complex causal models from data. For example, modern machine learning systems are currently incapable of modeling the complex biophysical processes that underly tumor state or tumor response to targeted medication.
 
-For scientists to make progress, we need to systematically curate large datasets of high-fidelity diesease data, from a variety of sources, but with an emphasis on data from diseased organisms. This data can be used to learn disease models, which should then be iteratively tested by comparison to experiment. Most importantly hand-tweaking of parameters should be forbidden; Progress should come through algorithmic advancement and better data, not through boutique
+For scientists to make progress, we need to systematically curate large datasets of high-fidelity diesease data, from a variety of sources, but with an emphasis on data from diseased organisms. This data can be used to learn disease models, which should then be iteratively tested by comparison to experiment. Most importantly hand-tweaking of parameters should be forbidden; Progress should come through algorithmic advancement and better data, not through boutique applications of human insight.
+
+Learning-centric disease modeling could equally well serve for achieving the dream of personalized medicine. President Obama's [precision medicine initiative](https://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama-s-precision-medicine-initiative) has drawn significant attention to the challenge of tailoring treatments to individual patients. A learning-centric paradigm could make it possible to learn sophisticated models of individual patients' diesases.
 
   Furthermore, we Will require computational models of the immune system
   response, and should use real clinical data from electronic health care
   records to understand effects of drugs on human patients.
-
-  In general, more models of the human body for drug discovery are needed.
-  Currently have models of drug distribution, blood-brain barrier
-  penetration, drug pKa, and metabolism. But, none of these models are
-  stitched together into a model of the whole human. This limitation stands
-  in contrast to animal models.
 
   To support our hypothesis, it helps to take a quick tour of common types
   of human diseases.
