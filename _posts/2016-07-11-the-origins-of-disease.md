@@ -4,79 +4,28 @@ published: false
 
 ## Model Driven Drug Discovery
 
-Modern drug discovery is an artisanal pursuit, driven more by luck and
-expert knowledge than by systematic discovery. While this approach has
-worked spectacularly in the past, the last few years have seen a systematic
-decrease in the number of new drugs discovered for dollar spent. [Eroom's
-law](http://blogs.sciencemag.org/pipeline/archives/2012/03/08/erooms_law)
-empirically demonstrates that the number of new drugs per dollar has been
-falling exponentially. Eroom is of course Moore spelled backward, and the
-opposite trends in computational power per dollar versus drugs discovered
-per dollar serve as a reminder that naive computation is insufficient to
-solve hard biological problems (a topic I've
-[written](http://rbharath.github.io/the-ferocious-complexity-of-the-cell/)
-about previously)
+Modern drug discovery is an artisanal pursuit, driven more by luck and expert knowledge than by systematic discovery. While this approach has worked spectacularly in the past, the last few years have seen a systematic decrease in the number of new drugs discovered for dollar spent. [Eroom's
+law](http://blogs.sciencemag.org/pipeline/archives/2012/03/08/erooms_law) empirically demonstrates that the number of new drugs per dollar has been falling exponentially. Eroom is of course Moore spelled backward, and the opposite trends in computational power per dollar versus drugs discovered per dollar serve as a reminder that naive computation is insufficient to
+solve hard biological problems (a topic I've [written](http://rbharath.github.io/the-ferocious-complexity-of-the-cell/) about previously)
 
-How can we change this state of affairs? I hypothesize that the best path
-forward is to systematically create models of human disease and drug
-actions. To explain this choice, let's take a quick detour into the history
-of drug discovery. Early drug discovery was driven by [phenotypic
-screening](https://en.wikipedia.org/wiki/Phenotypic_screening), in which
-drugs were selected based on demonstrated efficacy in sick humans or
-animals. While this approach was highly effective, it suffered from low
-throughput; only a few sick humans or animals were available, making it
-difficult to test many potential drugs. As a result, the pharmaceutical
-industry increasingly shifted towards [targeted drug
-discovery](https://en.wikipedia.org/wiki/Drug_discovery). Biologists'
-increasing knowledge of the molecular mechanisms underlying life made it
-possible to select out single types of molecules and hypothesize that a
-disease could stopped by knocking such fault molecule. The targeted
-approach also facilitated very large scale __in-vitro __ (in the test-tube)
-experiments (since large batches of solution containing the faulty molecule
-could be prepared easily), and made it possible discover unexpected
-treatments using molecular similarities between various subsystems in the
+How can we change this state of affairs? I hypothesize that the best path forward is to systematically create computational models of human disease and drug actions. To explain this choice, let's take a quick detour into the history of drug discovery. Early drug discovery was driven by [phenotypic screening](https://en.wikipedia.org/wiki/Phenotypic_screening), in which
+drugs were selected based on demonstrated efficacy in sick humans or animals. While this approach was highly effective, it suffered from low throughput; only a few sick humans or animals were available, making it difficult to test many potential drugs. As a result, the pharmaceutical
+industry increasingly shifted towards [targeted drug discovery](https://en.wikipedia.org/wiki/Drug_discovery). Biologists' increasing knowledge of the molecular mechanisms underlying life made it possible to select out single types of molecules and hypothesize that a disease could stopped by knocking such fault molecule. The targeted approach also facilitated very large scale __in-vitro __ (in the test-tube) experiments (since large batches of solution containing the faulty molecule could be prepared easily), and made it possible discover unexpected treatments using molecular similarities between various subsystems in the
 body.
 
-While the shift to targeted drug discovery facilitated many procedural
-aspects, it also explains in large parts the drop in yield per dollar.
-Biology is hard, and human understanding of the body's regulatory
-mechanisms is highly incomplete and best, and completely wrong at worst.
-Any pharmaceutical veteran can share stories where a potential molecule
-looked highly promising in all early stage targeted tests, but caused
-catastropic deaths in the first animal trials. The question for forward
-progess then remains: how can we regain the efficacy of early phenotypic
-screening, while retaining the scale and precision of targeted discovery
-campaigns?
+While the shift to targeted drug discovery facilitated many procedural aspects, it also explains in large parts the drop in yield per dollar. Biology is hard, and human understanding of the body's regulatory mechanisms is highly incomplete and best, and completely wrong at worst.
+Any pharmaceutical veteran can share stories where a potential molecule looked highly promising in all early stage targeted tests, but caused catastropic deaths in the first animal trials. The question for forward progess then remains: how can we regain the efficacy of early phenotypic
+screening, while retaining the scale and precision of targeted discovery campaigns?
 
-A number of innovative experimental solutions have started to mature. For
-example, [PerlsteinLab](http://www.plab.co/) uses
-[CRISPR](https://en.wikipedia.org/wiki/CRISPR) to make mutations in
-non-mammalian organisms (such as nematodes or flies) to enable them to
-better model human genetic disorders. This approach offers scale, since
-non-mammalian organisms can often be raised to maturity quickly, allowing
-for large scale testing of hypotheses. Other companies such as
-  [Transcriptic](https://www.transcriptic.com/) or [Emerald Cloud
-  Lab](http://emeraldcloudlab.com/) promise to facilitate complex
-  biological experiments, allowing researchers to perform more sanity
-  checks on their proposed drugs.
+A number of innovative experimental solutions have started to mature. For example, [PerlsteinLab](http://www.plab.co/) uses [CRISPR](https://en.wikipedia.org/wiki/CRISPR) to make mutations in non-mammalian organisms (such as nematodes or flies) to enable them to better model human genetic disorders. This approach offers scale, since non-mammalian organisms can often be raised to maturity quickly, allowing for large scale testing of hypotheses. Other companies such as [Transcriptic](https://www.transcriptic.com/) or [Emerald Cloud Lab](http://emeraldcloudlab.com/) promise to facilitate complex biological experiments, allowing researchers to perform more sanity checks on their proposed drugs.
 
-  While these advances will likely prove very useful, I suspect that in
-  isolation, they won't be sufficient to regain the efficiency of
-  systematic phenotypic screening. Any model is limited by human
-  understanding of the biology underlying diseased systems, and our
-  understanding remains too weak. As Donald Rumsfeld famously noted, it's
-  hard to plan for unknown unknowns, in life and in drug discovery. What
-  then is the path forward?
+While these advances will likely prove very useful, I suspect that in isolation, they won't be sufficient to regain the efficiency of systematic phenotypic screening. Any model is limited by human understanding of the biology underlying diseased systems, and our understanding remains too weak. As Donald Rumsfeld famously noted, it's hard to plan for unknown unknowns, in life and in drug discovery. What then is the path forward?
 
-  I propose that we need to systematically learn algorithmic models of
-  complex biological systems, capable of capturing insight not directly
-  visible to human scientists. Although the pharmaceutical industry
-  [routinely
-  uses](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80%93activity_relationship)
-  simple statistical models of molecular properties such as solubility or
-  toxicity to guide drug discovery,
+I propose that we need to systematically learn algorithmic models of disease, capable of capturing sophisticated insight not obvious to human scientists, and which are capable of predicting responses to proposed drugs. Although the pharmaceutical industry already [routinely uses](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80%93activity_relationship)
+simple statistical models of molecular properties such as solubility or toxicity to guide drug discovery, scientists stop far short of computationally modeling diseases themselves. Part of the challenge is that such models have traditionally been the domain of [systems biologists](https://en.wikipedia.org/wiki/Systems_biology) who create complex systems of differential equations to model biological dynamics. While these models are quite useful, they are also brittle, and hard to create, requiring significant domain expertise to tune parameters to match experimental results. The alternative approach I suggest is to create disease models which are directly learned from experimental data using machine learning.
 
-
+Machine learning has traditionally been the science of learning simple functions which explain observed correlations in datasets. There have been significant [advances](http://rbharath.github.io/machine-learning-for-scientific-datasets/) in recent years
+This approach will require significant innovation before becoming feasible. Machine learning has [struggled](http://rbharath.github.io/machine-learning-for-scientific-datasets/) to extract causal models from data. As a result, most modern machine learning systems are 
   Furthermore, we Will require computational models of the immune system
   response, and should use real clinical data from electronic health care
   records to understand effects of drugs on human patients.
