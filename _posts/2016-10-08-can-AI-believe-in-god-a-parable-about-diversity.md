@@ -1,6 +1,7 @@
 ---
 title: Can AI believe in God? A Parable about Diversity.
 published: true
+layout: post
 ---
 Can an AI believe in God? This is a seldom-asked question in the philosophical community that thinks about artificial intelligence (perhaps since that community is primarily [rationalist](http://lesswrong.com/)). The question is worth asking. There have been numerous pieces of art that think about the capacity of AI to feel emotion; see the movie [Her](https://en.wikipedia.org/wiki/Her_(film)) for a love story between man and AI. If an AI can feel intense emotion for a human being, why couldn't an AI couldn't feel a similarly fervent devotion for an abstract diety?
 
