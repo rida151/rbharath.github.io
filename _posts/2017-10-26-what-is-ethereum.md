@@ -1,7 +1,7 @@
 In my last essay, I alluded to the potential of blockchain as a powerful enabler for drug discovery and biology in general.
 I've been exploring this idea in depth recently and as a result, have been too busy to write an in-depth essay introduction 
 to the space. However, I have been exploring important blockchain concepts on Twitter via tweetstorm. The following
-(lightly edited) tweetstorm explains the fundamentals of Ethereum, the most powerful (and arguably most popular) developer\
+(lightly edited) tweetstorm explains the fundamentals of Ethereum, the most powerful (and arguably most popular) developer
 platform for blockchain applications. I explain what Ethereum is, why it's exciting, and even touch on how I suspect the
 first artificial general intelligences (AGIs) might emerge on systems like Ethereum.
 
