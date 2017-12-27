@@ -10,6 +10,7 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 Bharath's graduate education was supported by a [Hertz Fellowship](http://hertzfoundation.org/default.aspx), the most selective graduate fellowship in the sciences.
 
 ### Essays
+- [Learning to Learn](http://rbharath.github.io/learning-to-learn/)
 - [What is Ethereum?](http://rbharath.github.io/what-is-ethereum/)
 - [Liquidity in Drug Discovery](http://rbharath.github.io/liquidity-in-drug-discovery/)
 - [The Innovator's Open Source Dilemma](http://rbharath.github.io/the-innovators-open-source-dilemma/)
