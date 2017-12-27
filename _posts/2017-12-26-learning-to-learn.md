@@ -22,10 +22,10 @@ Another trick is that it’s OK not to share that you’re learning something ne
 
 If you find yourself stuck while learning, it’s entirely alright. There are times when insights flow like rushing water, and others where your thoughts feel like a quicksand bog. Both of these modes are natural, so learn to go with the flow (or the bog) in either case without worrying too much about learning too fast or learning to slow in either situation.
 
-Finally, it’s worth remembering the following Tamil proverb: “கற்றது கை மண் அளவு. கற்றாதது உலகம் அளவு” (Kattrathu kai mann alavu. Kattrathathu ulakam alavu). In English, the verse reads “What you’ve learned is a handful of sand. What you haven’t fills the world.” These words, from the 13th century poet Avvaiyar [3] hold as true today as they did centuries ago.
+Finally, it’s worth remembering the following Tamil proverb: “கற்றது கை மண் அளவு. கற்றாதது உலகம் அளவு” (Kattrathu kai mann alavu. Kattrathathu ulakam alavu). In English, the verse reads “What you’ve learned is a handful of sand. What you haven’t fills the world.” These words, from the 13th century poet [Avvaiyar](https://en.wikipedia.org/wiki/Avvaiyar) [3] hold as true today as they did centuries ago.
 
-[1] https://deepmind.com/research/publications/count-based-exploration-neural-density-models/ 
+[1] [https://deepmind.com/research/publications/count-based-exploration-neural-density-models/ ](https://deepmind.com/research/publications/count-based-exploration-neural-density-models/)
 
-[2] http://hertzfoundation.org/fellowships/fellowshipaward 
+[2] [http://hertzfoundation.org/fellowships/fellowshipaward ](http://hertzfoundation.org/fellowships/fellowshipaward)
 
-[3] https://en.wikipedia.org/wiki/Avvaiyar 
+[3] [https://en.wikipedia.org/wiki/Avvaiyar](https://en.wikipedia.org/wiki/Avvaiyar)
