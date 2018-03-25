@@ -7,7 +7,8 @@ published: true
 Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was valedictorian of his graduating class in mathematics. He did his PhD in computer science at Stanford University where he studied the application of deep-learning to problems in drug-discovery. At Stanford, Bharath created the [deepchem.io](https://deepchem.io) open-source project to grow the deep drug discovery open source community, co-created the [moleculenet.ai](https://moleculenet.ai) benchmark suite to facilitate development of molecular algorithms, and [more](https://scholar.google.com/citations?user=LOdVDNYAAAAJ&hl=en&oi=ao). Bharath's graduate education was supported by a [Hertz Fellowship](http://hertzfoundation.org/default.aspx), the most selective graduate fellowship in the sciences. Bharath is the lead author of ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451), a developer's introduction to modern machine learning, with [O'Reilly Media](https://www.oreilly.com/). Today, Bharath is focused on designing the decentralized protocols that will unlock data and AI to create the next stage of the internet.
 
 
-
+### Books
+- ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
 
 ### Essays
 - [Why Blockchain Could (One Day) Topple Google](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
@@ -28,9 +29,6 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 - [The Ferocious Complexity of the Cell](http://rbharath.github.io/the-ferocious-complexity-of-the-cell/)
 - [Why Antibiotics Are Hard](http://rbharath.github.io/why-antibiotics-are-hard/)
 - [Machine Learning For Scientific Datasets](http://rbharath.github.io/machine-learning-for-scientific-datasets/)
-
-### Books
-- ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
 
 ### Papers
 - [Massively multitask networks for drug discovery](https://arxiv.org/abs/1502.02072)
