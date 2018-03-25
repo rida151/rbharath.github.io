@@ -32,6 +32,25 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 ### Books
 - ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
 
+### Papers
+- [Massively multitask networks for drug discovery](https://arxiv.org/abs/1502.02072)
+- [Low data drug discovery with one-shot learning](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367)
+- [NVMKV: A Scalable and Lightweight Flash Aware Key-Value Store.](https://www.usenix.org/system/files/conference/hotstorage14/hotstorage14-paper-marmol.pdf)
+- [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/-/content/articlehtml/2018/sc/c7sc02664a)
+- [Atomic convolutional networks for predicting protein-ligand binding affinity](https://arxiv.org/abs/1703.10603)
+- [Computational modeling of β-secretase 1 (BACE-1) inhibitors using ligand based approaches](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00290)
+- [Understanding protein dynamics with L1-regularized reversible hidden Markov models](http://proceedings.mlr.press/v32/mcgibbon14.html)
+- [Is multitask deep learning practical for pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146)
+- [Retrosynthetic reaction prediction using neural sequence-to-sequence models](https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00303)
+- [The extended parameter filter](http://proceedings.mlr.press/v28/bugraerol13.pdf)
+- [Dynamic scaled sampling for deterministic constraints](http://proceedings.mlr.press/v31/li13a.pdf)
+- [Spatial Graph Convolutions for Drug Discovery](https://arxiv.org/abs/1803.04465)
+- [Learning Protein Dynamics with Metastable Switching Systems](https://arxiv.org/abs/1610.01642)
+
+### Patents
+- [Non-volatile key-value store](https://patents.google.com/patent/US9075710B2/en)
+- [Conditional iteration for a non-volatile device](https://patents.google.com/patent/US9519575B2/en)
+
 ### Contact
 
 X@computable.io, sub X=bharath
