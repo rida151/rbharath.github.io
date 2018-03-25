@@ -29,6 +29,9 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 - [Why Antibiotics Are Hard](http://rbharath.github.io/why-antibiotics-are-hard/)
 - [Machine Learning For Scientific Datasets](http://rbharath.github.io/machine-learning-for-scientific-datasets/)
 
+### Books
+- ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
+
 ### Contact
 
-my-github-user-name@my-institution.edu
+X@computable.io, sub X=bharath
