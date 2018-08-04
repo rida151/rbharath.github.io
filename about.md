@@ -11,6 +11,8 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 - ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
 
 ### Essays
+- [A PhD in Snapshots](http://rbharath.github.io/A-PhD-In-Snapshots/)
+- [The Advent of Huang's Law](http://rbharath.github.io/the-advent-of-huangs-law/)
 - [Why Blockchain Could (One Day) Topple Google](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
 - [Learning to Learn](http://rbharath.github.io/learning-to-learn/)
 - [What is Ethereum?](http://rbharath.github.io/what-is-ethereum/)
