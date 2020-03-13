@@ -9,6 +9,7 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 
 ### Books
 - ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
+- ["Deep learning for the life sciences"](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy-ebook/dp/B07QM3G5JM)
 
 ### Essays
 - [A PhD in Snapshots](http://rbharath.github.io/A-PhD-In-Snapshots/)
@@ -53,4 +54,4 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 
 ### Contact
 
-X@computable.io, sub X=bharath
+X.Y@gmail.com, sub X=bharath, Y=ramsundar
