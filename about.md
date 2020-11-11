@@ -8,11 +8,11 @@ Bharath received a BA and BS from UC Berkeley in EECS and Mathematics and was va
 
 Bharath is the lead author of ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451), a developer's introduction to modern machine learning, with [O'Reilly Media](https://www.oreilly.com/), and the lead author of ["Deep Learning for the Life Sciences"](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837)
 
-### Books
+## Books
 - ["TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
 - ["Deep learning for the life sciences"](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy-ebook/dp/B07QM3G5JM)
 
-### Essays
+## Essays
 - [A PhD in Snapshots](http://rbharath.github.io/A-PhD-In-Snapshots/)
 - [The Advent of Huang's Law](http://rbharath.github.io/the-advent-of-huangs-law/)
 - [Why Blockchain Could (One Day) Topple Google](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
@@ -35,7 +35,7 @@ Bharath is the lead author of ["TensorFlow for Deep Learning: From Linear Regres
 - [Machine Learning For Scientific Datasets](http://rbharath.github.io/machine-learning-for-scientific-datasets/)
 - [Can Drugs Be Developed Like Open Source Projects](https://forum.deepchem.io/t/can-drugs-be-developed-like-open-source-projects/31)
 
-### Papers
+## Papers
 - [Massively multitask networks for drug discovery](https://arxiv.org/abs/1502.02072)
 - [Low data drug discovery with one-shot learning](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367)
 - [NVMKV: A Scalable and Lightweight Flash Aware Key-Value Store.](https://www.usenix.org/system/files/conference/hotstorage14/hotstorage14-paper-marmol.pdf)
@@ -56,7 +56,7 @@ Bharath is the lead author of ["TensorFlow for Deep Learning: From Linear Regres
 - [AMPL: A Data-Driven Modeling Pipeline for Drug Discovery](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b01053)
 - [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2010.09885)
 
-### Patents
+## Patents
 - [Non-volatile key-value store](https://patents.google.com/patent/US9075710B2/en)
 - [Conditional iteration for a non-volatile device](https://patents.google.com/patent/US9519575B2/en)
 - [Interpretability-based machine learning adjustment during production](https://patents.google.com/patent/US20200193313A1/en)
