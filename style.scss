@@ -489,6 +489,17 @@ footer {
   margin: 0px;
 }
 
+.publication_table_patent_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #ff9fe8; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
