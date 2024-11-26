@@ -501,6 +501,77 @@ footer {
   margin: 0px;
 }
 
+.publication_table_conference_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #baabd9; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
+
+.publication_table_lecture_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #C4BC96; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
+
+.publication_table_seminar_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #fac905; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
+
+.publication_table_podcast_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #a0eeee; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
+
+.publication_table_webinar_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #f9cfc3; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
+
+.publication_table_presentation_tag {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.75rem;
+  color: #000;
+  background-color: #f0a1f9; 
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 0px;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
